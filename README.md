@@ -6,7 +6,6 @@ I'm a **full-stack developer** and **tech lead** with a professional master's de
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/@moifek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)  
 [![LinkedIn](https://img.shields.io/badge/Moifek%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
 
 ---
