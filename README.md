@@ -1,5 +1,7 @@
 
-**full-stack developer** and **Principle Software engineer** of current job with a professional master's degree in computer science and software development. I specialize in building modern Software solutions & applications, leading teams, Release management and delivering scalable tech solutions with a deep understanding of both technical and strategic aspects of development.
+
+
+**full-stack developer**, and **Senior AI Software engineer** of current job with a professional master's degree in computer science and software development. I specialize in building modern Software solutions & applications, integrating software, leading teams, Release management and delivering scalable tech solutions with a deep understanding of both technical and strategic aspects of development.
 
 ---
 
