@@ -1,5 +1,5 @@
 <h1 align="center">Moafak Maiza</h1>
-<h3 align="center">Senior Software Engineer · Applied AI Specialist · Technical Lead</h3>
+<h3 align="center">Senior Software Engineer · Applied AI Specialist</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/moifekmaiza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
