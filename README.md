@@ -34,6 +34,8 @@ Currently at **ServicePower**, I sole-own the engineering of a multi-tenant fiel
 | **limadata-mcp** | Open-source MCP server + Claude desktop extension wrapping a real-time B2B data API. Zero-integration access for any MCP-compatible agent. | [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/limadata-mcp) |
 | **Clippy AI** | Token-streaming conversational assistant with bilingual (EN/AR) TTS, grounded in typed content. Self-hosted via Docker/nginx. | [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square)](https://mmo.sidihub.cloud) |
 
+** KiroEnsemble before making it private :**<img width="1909" height="950" alt="Kiro-ensemble" src="https://github.com/user-attachments/assets/05580c2a-b65d-42e7-acf0-002e23a57ba5" />
+
 ---
 
 ## Tech Stack
